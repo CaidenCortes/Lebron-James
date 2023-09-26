@@ -13,3 +13,4 @@
 
  
 <h4>Better than Michael Jordan????</h4>
+<p>This is a debate that has been going on for years and multiple people have consider Michael Jordan as the goat but as time has passed, Lebron James have displayed his longevity and his ability to score even with old age. He might be the Greatest of All time but thats only my opinion. What do you think? Goat or No?. </p>
