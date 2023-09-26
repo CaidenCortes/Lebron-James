@@ -7,4 +7,5 @@
 <p>Lebron James born on December 30, 1984 in Akron. He was drafted as the number one overall in the 2003 draft by the Cleveland Caveliers. King James won Rooke of the Year and started his jounrey of becoming the greatest of all time.</p>
 
   
+ 
   <img src="https://github.com/CaidenCortes/Lebron-James/assets/145697577/2f6f8366-f9c8-4180-a65b-a289b68b5cca)"/> 
