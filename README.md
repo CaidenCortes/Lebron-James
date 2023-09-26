@@ -13,4 +13,9 @@
 
  
 <h4>Better than Michael Jordan????</h4>
-<p>This is a debate that has been going on for years and multiple people have consider Michael Jordan as the goat but as time has passed, Lebron James have displayed his longevity and his ability to score even with old age. He might be the Greatest of All time but thats only my opinion. What do you think? Goat or No?. </p>
+<p>This is a debate that has been going on for years and multiple people have consider Michael Jordan as the goat but as time has passed, Lebron James have displayed his longevity and his ability to score even with old age. He might be considered the Greatest of All time but thats only my opinion. What do you think? Goat or No?.</p>
+<h5>Accolades of Both Individuals</h5>
+
+![lebron-james-vs-michael-jordan-comparing-stats-and-accolades-during-regular-season-and-playoffs](https://github.com/CaidenCortes/Lebron-James/assets/145697577/de18e5eb-cc09-4c6a-8aab-65a3f2d669e6)
+
+![download](https://github.com/CaidenCortes/Lebron-James/assets/145697577/02825465-7645-45bd-9e9d-3e602a80d60e)
