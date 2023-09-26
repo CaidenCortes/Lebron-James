@@ -8,6 +8,8 @@
 <img src="https://github.com/CaidenCortes/Lebron-James/assets/145697577/2f6f8366-f9c8-4180-a65b-a289b68b5cca)"/> 
 <h3>First Championship of his Career</h3>
 <p> Lebron James won his first championship with the Miami Heat. He won finals MVP and was able to carry his team to a championship.</p>
-![image](https://github.com/CaidenCortes/Lebron-James/assets/145697577/cdaae57b-c91e-4929-9720-8d3be7048016)
+
+ ![image](https://github.com/CaidenCortes/Lebron-James/assets/145697577/4004b600-5f9d-47fb-ae43-58ffefbdc05e)
+
  
 <h4>Better than Michael Jordan????</h4>
