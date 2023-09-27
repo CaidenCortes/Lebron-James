@@ -20,4 +20,4 @@
 
 ![download](https://github.com/CaidenCortes/Lebron-James/assets/145697577/02825465-7645-45bd-9e9d-3e602a80d60e)
 
-[Article] (https://www.discoverwalks.com/blog/united-states/the-case-for-lebron-james-10-reasons-why-he-is-the-goat/)
+[Article] ("https://www.discoverwalks.com/blog/united-states/the-case-for-lebron-james-10-reasons-why-he-is-the-goat"/)
